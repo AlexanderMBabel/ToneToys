@@ -1,0 +1,8 @@
+{
+  "parser": "babel-eslint",
+  "extends": ["airbnb"],
+  "rules": {
+    "comma-dangle": ["error", "never"],
+    "no-path-concat": "off"
+  }
+}
