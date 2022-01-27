@@ -15,7 +15,7 @@
     "redux-devtools-extension": "^2.13.8",
     "redux-thunk": "^2.3.0",
     "tailwindcss": "^1.2.0",
-    "three": "^0.114.0",
+    "three": "^0.137.0",
     "tone": "^13.8.25"
   },
   "scripts": {
